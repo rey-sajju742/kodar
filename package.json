@@ -1,0 +1,16 @@
+{
+  "name": "project_openai_codex-main",
+  "version": "1.0.0",
+  "description": "![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)",
+  "main": "index.js",
+  "dependencies": {
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
